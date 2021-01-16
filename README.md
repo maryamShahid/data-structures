@@ -1,4 +1,4 @@
-# cs202-fundamental-structures-of-computer-science-II
+# cs202-Fundamental-Structures-of-Computer-Science-II
 CS202 course work, Bilkent University, Summer 2020
 
 Homework 1 - Algorithm Efficiency of Sorting Algorithms <br/>
